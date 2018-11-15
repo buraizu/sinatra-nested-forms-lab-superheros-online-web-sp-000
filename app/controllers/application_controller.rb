@@ -25,11 +25,3 @@ class App < Sinatra::Base
 
 end
 
-
-# {"team"=>
-#   {"name"=>"adfs",
-#    "motto"=>"fdsadfsa",
-#    "members"=>
-#     [{"name"=>"qwe", "power"=>"ewq", "bio"=>"weqweq"},
-#      {"name"=>"hgfdghfd", "power"=>"ghdf", "bio"=>"fgdfds"},
-#      {"name"=>"cxzczx", "power"=>"cxzcxz", "bio"=>"cxzc"}]}}
